@@ -1,8 +1,6 @@
 .terraform.lock.hcl
-.terraform/
 Variable.tf
 terraform.tfstate
-
 terraform.tfvars
 .terraform/
 *.tfstate
